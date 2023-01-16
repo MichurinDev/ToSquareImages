@@ -10,7 +10,7 @@ directory_image_before_processing = "./"
 # Directory with image after processing
 directory_image_after_processing = "squareImages"
 
-# Multiplier
+# Image scale
 scale = 1
 
 # The color of the filling space
