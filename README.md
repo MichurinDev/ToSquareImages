@@ -4,6 +4,10 @@
 This utility allows you to bring all the images to the ratio of the parties **1:1**.<br>
 It may be useful when using images in various UI.
 
+## Before using
+Before using it, you need to install the libraries from the *requirements.txt* file.<br>
+You can do this with the `pip install -r command requirements.txt`
+
 ## How to Use
 1) Place the .py file in the same or higher directory regarding the processed images
 2) Indicate the necessary script settings:
